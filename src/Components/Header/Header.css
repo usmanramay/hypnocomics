@@ -1,0 +1,9 @@
+.bgcolor{
+    /* background-color:#8a2248; */
+    background-color:#538ccc;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(153, 69, 69));
+}
+.logo{
+    width: 40px;
+    border-radius: 30px;
+}

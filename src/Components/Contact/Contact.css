@@ -1,0 +1,16 @@
+.backcover {
+   
+    background-image: url("./call.jpg");
+    max-width: 100%;
+  
+    /* filter: blur(1px);
+    -webkit-filter: blur(1px); */
+    min-height: 500px; 
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  

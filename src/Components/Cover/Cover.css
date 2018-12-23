@@ -1,0 +1,34 @@
+.mycover {
+   
+    background-image: url("../../images/maincov.jpg");
+    max-width: 100%;
+  
+    /* filter: blur(1px);
+    -webkit-filter: blur(1px); */
+    min-height: 500px; 
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  .div-text{
+    color: rgb(226, 191, 191);
+    padding: 15%;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(168, 129, 129));
+    background-color: rgb(107, 139, 241);
+  }
+  
+  /* .center-text{
+    position: absolute;
+     margin: auto;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     width: 100px;
+     height: 100px;
+  }  */
